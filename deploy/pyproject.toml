@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hobs-nico-charity"
+version = "0.1.0"
+description = ""
+authors = ["robson <r.zagre.jr@gmail.com>", "nicolas <>"]
+
+[tool.poetry.dependencies]
+python = "~3.8"
+scikit-learn = "0.24.1"
+pandas = "^1.0.1"
+zappa = "^0.52.0"
+awscli = "^1.18.168"
+Flask = "^1.1.1"
+Flask-RESTful = "^0.3.8"
